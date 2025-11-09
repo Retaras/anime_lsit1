@@ -85,7 +85,6 @@ dev_dependencies:
   
   # --- Анализ кода ---
   analyzer: ^6.4.1
-  very_good_analysis: ^6.0.0
   
   # --- Тестирование ---
   mockito: ^5.4.4
